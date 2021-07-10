@@ -1,1 +1,2 @@
 Voice command module setup
+Smart lighting feature
