@@ -1,3 +1,2 @@
 Voice command module setup
-Device scheduling feature
-
+Smart lighting feature
