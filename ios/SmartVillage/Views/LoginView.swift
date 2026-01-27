@@ -6,7 +6,7 @@ struct LoginView: View {
     @State private var showPassword: Bool =  false
     @State private var isLoading: Bool =  false
     @State private var errorMessage: String = ""
-    @State private var showError: Bool = false
+    @State private var showError: Bool =  false
     
     var body: some View {
         NavigationView {
