@@ -9,7 +9,7 @@ struct RegistrationView: View {
     @State private var showConfirmPassword: Bool =  false
     @State private var isLoading: Bool =   false
     @State private var errorMessage: String = ""
-    @State private var showError: Bool = false
+    @State private var showError: Bool =  false
     @Environment(\.presentationMode) var presentationMode
     
     var body: some View {
