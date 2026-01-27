@@ -1,2 +1,2 @@
 Voice command module setup
-Smart thermostat control
+Notification center
