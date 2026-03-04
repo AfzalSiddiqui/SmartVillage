@@ -57,9 +57,7 @@ const LoginScreen = () => {
     // Simulate API call
     setTimeout(() => {
       setIsLoading(false);
-      Alert.alert('Success', 'Login successful!');
-      // In a real app, navigate to main screen here
-      // navigation.navigate('Home');
+      navigation.navigate('YellowPagesHome');
     }, 1500);
   };
 
